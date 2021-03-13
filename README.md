@@ -9,5 +9,4 @@ Please note, some answers have been removed from the data as it could be potenti
 ## 2021 General Survey
 
 - [Report](reports/2021/2021.md)
-- [Data Schema](/data/2021/schema.csv)
-- [Data]()
+- [Data](/data/2021/data.tsv)
